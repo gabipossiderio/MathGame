@@ -27,7 +27,7 @@ def play(points: int) -> None:
 
     if keep_going == 1:
         play(points)
-    elif keep_going == 2:
+    elif keep_going == 0:
         print(f'\nYou finished with {points} points.')
         print('See you later! :)')
     else:
