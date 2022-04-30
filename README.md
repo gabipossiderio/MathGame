@@ -1,8 +1,8 @@
-# Welcome to the coolest Math Game you've ever seen! 💜
+# Welcome to the coolest Math Game you've ever seen 💜
 
 ## Instructions:
 
-1 - Click [here](https://www.python.org/downloads/) and install Python on your machine.
+1 - Click [here](https://www.python.org/downloads/) and install Python on your machine;
 
 2 - Download this repository;
 
