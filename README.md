@@ -6,7 +6,7 @@
 
 2 - Download this repository;
 
-3-- Open the terminal and run `python game.py` inside the repo folder;
+3 - Open the terminal and run `python game.py` inside the repo folder;
 
 4 - Follow the instructions in your terminal;
 
